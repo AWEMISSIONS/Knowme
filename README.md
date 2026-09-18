@@ -1,5 +1,3 @@
-# KnowMe! fixed build
+# KnowMe! v2 Final
 
-Fixes:
-- A/B/C/D answer identifiers remain visible to the person taking the challenge.
-- Final "See My Score" submission now explicitly reads the player-name field and no longer relies on a browser global.
+A/B/C/D labels and indentation; reusable local templates; cross-phone challenge links containing challenge data; fixed final submit.
